@@ -12,5 +12,5 @@ pip install -r requirements.txt
 
 ### To Start
 ```shell
-python main.py
+python URL_Shortener.py
 ```
